@@ -1,4 +1,6 @@
-# Swipeable Cards [Tinder card, Stacked card]:
+# Swipeable Cards:
+(These can also be called: Tinder card, Stacked cards)
+
 In the recent times there are a lot of mobile applications which require a stack of swipeable cards. Flutter being a relatively new platform, it is difficult to find multiple options of library which can exclusively satisfy your needs.
 
 <img width="250" alt="screen-recording" src="https://github.com/adumrewal/swipeable-card/raw/master/assets/swipeable-card-recording.gif">
