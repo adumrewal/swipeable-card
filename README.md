@@ -19,4 +19,6 @@ For tinder like stacked cards, there exists one popular flutter package called [
 ## Dependencies
 - None. (only [flutter SDK](https://flutter.dev/docs/development/tools/sdk/releases))
 
+Distributed under the Apache 2.0 license. See ``LICENSE`` for more information.
+
 If you need any help, feel free to reach out.
