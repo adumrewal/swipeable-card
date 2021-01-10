@@ -1,5 +1,5 @@
 ### Summary:
-Goto code folder, download the file "swipeable-card.dart" and use it in your project
+Goto code folder, download (or click on edit and copy content) the file "swipeable-card.dart" and use it in your project
 
 # Swipeable Cards:
 (These can also be called: Tinder card, Stacked cards)
